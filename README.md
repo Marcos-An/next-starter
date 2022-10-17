@@ -1,4 +1,4 @@
-# Starter for Next JS 12+, Chakra UI 2+ and TypeScript
+# Starter for Next JS 12+ and TypeScript
 
 <div >
    <a href="#">
@@ -6,10 +6,7 @@
    </a 
    <a href="#">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-  </a>
-  <a href="#">
-      <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />    
-   </a 
+  </a> 
    <a href="#">
       <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />    
    </a 
@@ -26,39 +23,36 @@
 </div>
 <br>
 
-🚀 Simple starter for Next JS 12+, Chakra UI 2+ and TypeScript, alias is already configured too!
+🚀 Simple starter for Next JS 12+ and TypeScript, alias is already configured too!
 
 Clone this project and use it to quickly create your own [Next.js](https://nextjs.org) project.
-
 
 ### Features
 
 - ⚡ [Next.js](https://nextjs.org) for Yor awesome prject SSR / SSG
 - 🔥 Types with [TypeScript](https://www.typescriptlang.org)
-- 💎 Integrate with [Chakra UI](https://chakra-ui.com/)
 - 📏 Linter with [ESLint](https://eslint.org) (STANDARD configuration)
 - 🌈 Code Formatter with [Prettier](https://prettier.io)
 - 🗂 Absolute Imports using `@` prefix
-
 
 ### Requirements
 
 - Node.js 14+ and npm
 
-### Files Estructure 
+### Files Estructure
 
 ```shell
 .
-├── public                          # Public assets folder 
+├── public                          # Public assets folder
 ├── src
 │   ├── Components                  # Components folder
 │   ├── pages                       # Next JS Pages
-│   ├── styles                      # Styles folder 
+│   ├── styles                      # Styles folder
 ├── .editorConfig                   # editorConfig configuration
 ├── .eslintrc.json                  # eslintrc configuration
 ├── .prettierrc                     # prettierrc configuration
 └── tsconfig.json                   # TypeScript configuration
-├── README.md                       # README file 
+├── README.md                       # README file
 ```
 
 ### Contributions
